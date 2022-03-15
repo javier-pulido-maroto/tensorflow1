@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>people_26.jpeg</filename>
+	<path>/home/javi/tensorflow1-2/models/research/object_detection/images/train/people_26.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>999</width>
+		<height>311</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>72</ymin>
+			<xmax>268</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

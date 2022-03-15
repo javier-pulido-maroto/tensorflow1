@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20211014_123310.jpg</filename>
+	<path>/home/javi/tensorflow1-2/models/research/object_detection/images/train/20211014_123310.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>870</width>
+		<height>1160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>287</ymin>
+			<xmax>581</xmax>
+			<ymax>896</ymax>
+		</bndbox>
+	</object>
+</annotation>

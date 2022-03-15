@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Cobot4.jpg</filename>
+	<path>/home/javi/tensorflow1-2/models/research/object_detection/images/train/Cobot4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>680</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>9</ymin>
+			<xmax>860</xmax>
+			<ymax>658</ymax>
+		</bndbox>
+	</object>
+</annotation>

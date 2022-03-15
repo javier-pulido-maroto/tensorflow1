@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Cobot.jpg</filename>
+	<path>/home/javi/tensorflow1-2/models/research/object_detection/images/test/Cobot.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>1</ymin>
+			<xmax>708</xmax>
+			<ymax>629</ymax>
+		</bndbox>
+	</object>
+</annotation>
